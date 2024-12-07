@@ -1,0 +1,6 @@
+train: C:/Users/User/Downloads/Compressed/train/images
+val: C:/Users/User/Downloads/Compressed/valid/images
+test: C:/Users/User/Downloads/Compressed/test/images
+
+nc: 1  # Number of classes (fire only)
+names: ['fire']  # Class names
